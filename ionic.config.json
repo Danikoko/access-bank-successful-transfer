@@ -1,0 +1,8 @@
+{
+  "name": "Access Bank (Successful Transfer)",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "26c79e82"
+}
